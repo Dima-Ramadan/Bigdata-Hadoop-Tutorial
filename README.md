@@ -26,5 +26,5 @@ The first two jobs process the Historical Weather and Historical Wildfires datas
 
 Please refer to the tutorial for detailed instructions on running the MapReduce jobs and analysing wildfire data using chained Hadoop MapReduce.
 
-Feel free to explore the code, datasets, and tutorial to gain insights into analysing wildfire data with Hadoop MapReduce.
+Feel free to explore the code, datasets, and tutorial to gain insights into analysing wildfire data with Hadoop MapReduce. <br />
 Happy coding!
